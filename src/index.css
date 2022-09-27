@@ -1,0 +1,12 @@
+@import url("https://fonts.google.com/specimen/Epilogue");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  box-sizing: border-box;
+  font-family : 'Epilogue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
